@@ -1,5 +1,5 @@
 # Kanto
-iOS application allowing create a model of chemical ligand with information about it and atoms.
+iOS application allowing create a scenemodel of chemical ligand with information, atoms and their connections.
 
 #### Features
 - TouchID or FaceID on logging into app or hiding the app to background process
@@ -13,5 +13,5 @@ iOS application allowing create a model of chemical ligand with information abou
 
 ### Demonstration
 <p align="center">
-<img src="demo.gif" height=600>
+<img src="https://github.com/danilkozyr/iOS-Portfolio/blob/master/gifs/proteins.gif" height=600>
 </p>
