@@ -1,4 +1,4 @@
-# Kanto
+# Proteins
 iOS application allowing create a scenemodel of chemical ligand with information, atoms and their connections.
 
 #### Features
